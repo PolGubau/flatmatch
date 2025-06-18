@@ -2,6 +2,9 @@
   "name": "flatmatch",
   "main": "expo-router/entry",
   "version": "1.0.0",
+  "author": {
+    "name": "Flatmatch Team"
+  },
   "scripts": {
     "start": "expo start",
     "reset-project": "node ./scripts/reset-project.js",
